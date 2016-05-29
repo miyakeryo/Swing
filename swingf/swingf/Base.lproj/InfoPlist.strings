@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  swingf
+
+  Created by Miyake Ryo on 2016/05/17.
+  Copyright © 2016年 Reframe, LLC. All rights reserved.
+*/
+CFBundleDisplayName = "Swing!";
+NSLocationWhenInUseUsageDescription = "ぼうを認識するために使います";
